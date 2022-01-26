@@ -1,1 +1,1 @@
-En aquesta carpeta hi trobareu els problemes del [e-status](https://ka.upc.edu/usuarios/login) resolts en excel (noteu que no estan complets) referents als blocs B1, B2 i B3 de l'assignatura PE de la [FIB](https://fib.upc.edu/)
+En aquesta carpeta hi trobareu els problemes del [e-status](https://ka.upc.edu/usuarios/login) resolts en excel (noteu que no estan complets) referents als blocs B1, B2 i B3 de l'assignatura PE (Q1 2021-2022) de la [FIB](https://fib.upc.edu/)
